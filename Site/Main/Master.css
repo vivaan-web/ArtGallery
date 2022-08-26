@@ -1,0 +1,20 @@
+.EmailInput
+{
+    padding-top: 30px;
+    padding-right: 150px;
+}
+.PasswordInput 
+{
+    padding-top: 10px;
+    padding-right: 150px;
+}
+.SignInInput,.Title 
+{
+    padding-right: 30px;
+    padding-top: 10px;
+}
+body
+{
+    padding-left:30px;
+    padding-right:90px
+}
